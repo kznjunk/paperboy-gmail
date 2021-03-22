@@ -11,9 +11,9 @@ module.exports = function paperboyGmail(config) {
         refresh_token: refreshToken
     })
 
-    return { sendEmail }
+    return { sendGmail }
 
-    async function sendEmail(from, to, subject, html) {
+    async function sendGmail(from, to, subject, html) {
         if (!from || !to || !subject || !html) throw new Error('Missing at least one required param..')
 
         const transporter = getTransporter(from)
