@@ -1,0 +1,19 @@
+{
+  "name": "@kznjunk/paperboy-gmail",
+  "version": "1.0.0",
+  "description": "Send emails a bit more easier",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kznjunk/paperboy-gmail.git"
+  },
+  "author": "kibwashere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kznjunk/paperboy-gmail/issues"
+  },
+  "homepage": "https://github.com/kznjunk/paperboy-gmail#readme"
+}
