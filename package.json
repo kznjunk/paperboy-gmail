@@ -1,6 +1,6 @@
 {
   "name": "@kznjunk/paperboy-gmail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send emails a bit more easier",
   "main": "src/index.js",
   "scripts": {
